@@ -1,5 +1,5 @@
 # SMS-Spam-Classifier-models
-We will be creating SMS spam classifier models using two text preprocessing techniques Stemming and Lemmatization along with Bag of Words and TF-IDF models.
+We will be creating SMS spam classifier models (Bag of Words and TF-IDF) using two text preprocessing techniques Stemming and Lemmatization.
 
 ***Definitions:***
 1. **Stemming**: It is a process of transforming a word to its root form.
